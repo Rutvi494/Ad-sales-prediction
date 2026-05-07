@@ -45,7 +45,7 @@ The project demonstrates how advertising investments influence overall sales per
 ### Model Output
 ![Output](images/Model output.png)
 
-![Output](images/Cross-validation.png)
+![Output](images/Cross Validation.png)
 
 ![Output](images/Lasso reg.png)
 
